@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Gabriel Santos, and I'm a Front End Developer at Upstack and I've been working in tech since 2017. I'm from Brazil, and I'm currently living in São Paulo.
+I'm Gabriel Santos, and I'm the Lead Front End Developer at Fluencypass and I've been working in tech since 2017. I'm from Brazil, and I'm currently living in São Paulo.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/mr_gabrielbp?style=social)](https://twitter.com/mr_gabrielbp)
 [![Linkedin: Gabriel](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gbsantos/)](https://www.linkedin.com/in/gbsantos/)
