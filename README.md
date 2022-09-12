@@ -26,4 +26,4 @@ These are some of the technologies and tools that I work with:
 
 
 <img width="480px" height="195px" align="left" src="https://github-readme-stats.vercel.app/api?username=gabriel-brito&show_icons=true" />  
-<img width="480px" height="195px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woliveiras&hide=html&layout=compact&theme=buefy" />  
+<img width="480px" height="195px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-brito&hide=html&layout=compact&theme=buefy" />  
