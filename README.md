@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I'm Gabriel Santos, and I'm a Software Engineer at Kuehne + Nagel and I've been working in tech since 2017. I'm from Brazil, and I'm currently living in Tallinn, Estonia.
+Hello there! I'm a Front-End Developer with over 6 years of experience and a talent for crafting cutting-edge software solutions across various industries. One of my proudest achievements was playing an instrumental role in creating a large-scale B2B platform for the travel sector. Another one of my proud moments was being the first Lead Front-End Engineer in a global education company.
+
+I take immense pride in building lightning-fast, intuitive, and accessible web interfaces that elevate team workflows and deliver exceptional results. I firmly believe in staying on top of the latest trends, tools, and techniques to provide the best possible experience for users.
+
+As a Javascript enthusiast, I'm always thrilled to share my expertise and knowledge with others. That's why I also contribute as a writer at @TrainingCentr. I'm a firm believer in the power of continuous learning, which keeps me on the cutting edge of my craft and always seeking out new challenges to tackle.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/mr_gabrielbp?style=social)](https://twitter.com/mr_gabrielbp)
 [![Linkedin: Gabriel](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gbsantos/)](https://www.linkedin.com/in/gbsantos/)
