@@ -28,6 +28,6 @@ These are some of the technologies and tools that I work with:
 
 <br />
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gabriel-brito&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 <img width="480px" height="195px" align="left" src="https://github-readme-stats.vercel.app/api?username=gabriel-brito&show_icons=true" />  
 <img width="480px" height="195px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-brito&hide=html&layout=compact&theme=buefy" />  
