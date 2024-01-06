@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Front-End Developer with over 6 years of experience and a talent for crafting cutting-edge software solutions across various industries. One of my proudest achievements was playing an instrumental role in creating a large-scale B2B platform for the travel sector. Another one of my proud moments was being the first Lead Front-End Engineer in a global education company.
+Front-End Developer with over 7 years of experience and a talent for crafting cutting-edge software solutions across various industries. One of my proudest achievements was playing an instrumental role in creating a large-scale B2B platform for the travel sector. Another one of my proud moments was being the first Lead Front-End Engineer in a global education company.
 
 I take immense pride in building lightning-fast, intuitive, and accessible web interfaces that elevate team workflows and deliver exceptional results. I firmly believe in staying on top of the latest trends, tools, and techniques to provide the best possible experience for users.
 
