@@ -6,7 +6,6 @@ I take immense pride in building lightning-fast, intuitive, and accessible web i
 
 As a Javascript enthusiast, I'm always thrilled to share my expertise and knowledge with others. That's why I also contribute as a writer at @TrainingCentr. I'm a firm believer in the power of continuous learning, which keeps me on the cutting edge of my craft and always seeking out new challenges to tackle.
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/mr_gabrielbp?style=social)](https://twitter.com/mr_gabrielbp)
 [![Linkedin: Gabriel](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gbsantos/)](https://www.linkedin.com/in/gbsantos/)
 
 ## ⚡ Technologies
